@@ -3,3 +3,4 @@ banana
 orange
 pineapple
 sugarcane
+pomegranate
